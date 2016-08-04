@@ -2,3 +2,33 @@ img {
   max-width: 100%;
   max-height: 100%;
 }
+
+html {
+  margin: 0;
+}
+
+.card {
+  border: 1px solid lightgrey;
+  margin-bottom: 15px;
+  text-align: left;
+}
+
+.info {
+  padding-left: 20px;
+}
+
+header {
+  background: rgb(242, 217, 84);
+  margin-bottom: 40px;
+  height: 95px;
+  font-size: 1em;
+}
+
+header h1 {
+  margin: 0;
+  margin-bottom: 10px;
+}
+
+header .row {
+  padding-top: 20px;
+}
